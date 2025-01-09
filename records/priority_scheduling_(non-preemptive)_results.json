@@ -1,0 +1,52 @@
+[
+    {
+        "patient_id": 2,
+        "wait_time": -5,
+        "completion_time": 20
+    },
+    {
+        "patient_id": 7,
+        "wait_time": -10,
+        "completion_time": 35
+    },
+    {
+        "patient_id": 1,
+        "wait_time": 35,
+        "completion_time": 65
+    },
+    {
+        "patient_id": 5,
+        "wait_time": 45,
+        "completion_time": 100
+    },
+    {
+        "patient_id": 4,
+        "wait_time": 85,
+        "completion_time": 125
+    },
+    {
+        "patient_id": 8,
+        "wait_time": 90,
+        "completion_time": 175
+    },
+    {
+        "patient_id": 3,
+        "wait_time": 165,
+        "completion_time": 220
+    },
+    {
+        "patient_id": 9,
+        "wait_time": 180,
+        "completion_time": 240
+    },
+    {
+        "patient_id": 6,
+        "wait_time": 215,
+        "completion_time": 280
+    },
+    {
+        "patient_id": 10,
+        "wait_time": 235,
+        "completion_time": 340
+    }
+]

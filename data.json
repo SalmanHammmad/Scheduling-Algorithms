@@ -1,0 +1,82 @@
+[
+    {
+        "patient_id": "P1",
+        "treatment_time": 15,
+        "priority": 1,
+        "doctor": "Dr. Alice",
+        "department": "Cardiology",
+        "arrival_time": 0
+    },
+    {
+        "patient_id": "P2",
+        "treatment_time": 10,
+        "priority": 2,
+        "doctor": "Dr. Bob",
+        "department": "Neurology",
+        "arrival_time": 5
+    },
+    {
+        "patient_id": "P3",
+        "treatment_time": 20,
+        "priority": 3,
+        "doctor": "Dr. Charlie",
+        "department": "Pediatrics",
+        "arrival_time": 10
+    },
+    {
+        "patient_id": "P4",
+        "treatment_time": 12,
+        "priority": 1,
+        "doctor": "Dr. Daisy",
+        "department": "Orthopedics",
+        "arrival_time": 15
+    },
+    {
+        "patient_id": "P5",
+        "treatment_time": 8,
+        "priority": 2,
+        "doctor": "Dr. Emily",
+        "department": "Dermatology",
+        "arrival_time": 20
+    },
+    {
+        "patient_id": "P6",
+        "treatment_time": 30,
+        "priority": 3,
+        "doctor": "Dr. Frank",
+        "department": "Radiology",
+        "arrival_time": 25
+    },
+    {
+        "patient_id": "P7",
+        "treatment_time": 25,
+        "priority": 1,
+        "doctor": "Dr. Grace",
+        "department": "Gastroenterology",
+        "arrival_time": 30
+    },
+    {
+        "patient_id": "P8",
+        "treatment_time": 18,
+        "priority": 2,
+        "doctor": "Dr. Henry",
+        "department": "Ophthalmology",
+        "arrival_time": 35
+    },
+    {
+        "patient_id": "P9",
+        "treatment_time": 22,
+        "priority": 3,
+        "doctor": "Dr. Irene",
+        "department": "Pulmonology",
+        "arrival_time": 40
+    },
+    {
+        "patient_id": "P10",
+        "treatment_time": 14,
+        "priority": 1,
+        "doctor": "Dr. John",
+        "department": "Endocrinology",
+        "arrival_time": 45
+    }
+]
